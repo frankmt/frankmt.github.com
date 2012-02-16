@@ -66,3 +66,10 @@ a img {
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
   display: block;
 }
+
+/* line 10, ../sass/screen.sass */
+.main .title {
+  font-family: "Exo", sans-serif;
+  font-size: 40pt;
+  font-weight: 600;
+}
