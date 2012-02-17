@@ -25,11 +25,17 @@ title: The Turning Point
         <li> Short Bio </li>
       </ul>
     </div>
-    <div class="main span-20">
+    <div id="main">
+      
+      <div id="recent-posts-list">
+        <h1>Most Recent Posts</h1>
 
-      {% for post in site.posts %}
-      	<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-      {% endfor %} 
+        <ul>
+        {% for post in site.posts %}
+        	<li><h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><h2></li>
+        {% endfor %} 
+        </ul>
+      </div>
 
       </div>
     <footer>
