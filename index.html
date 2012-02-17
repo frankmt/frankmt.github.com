@@ -1,52 +1,14 @@
 ---
 title: The Turning Point 
+layout: default
 ---
-<head>
-  <title>The Turning Point</title>
-  <meta name="description" content="Francisco Trindade's Blog">
-  <meta name="viewport" content="width=device-width">
+    
+<div id="recent-posts-list">
+  <h1>Most Recent Posts</h1>
 
-  <link href="/stylesheets/home.css" media="screen, projection" rel="stylesheet" type="text/css" />
-  <link href="/stylesheets/global.css" media="screen, projection" rel="stylesheet" type="text/css" />
-  <link href='http://fonts.googleapis.com/css?family=Exo:400,600,400italic' rel='stylesheet' type='text/css'>
-</head>
-<body>
-  <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
-  <div id="container">
-    <div id="sidebar">
-      <div id="title">
-        The Turning Point
-      </div>
-
-      <ul id="navigation">
-        <li> About </li>
-        <li> Blog </li>
-        <li> Presentations </li>
-        <li> Short Bio </li>
-      </ul>
-    </div>
-    <div id="main">
-      
-      <div id="recent-posts-list">
-        <h1>Most Recent Posts</h1>
-
-        <ul>
-        {% for post in site.posts %}
-        	<li><h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><h2></li>
-        {% endfor %} 
-        </ul>
-      </div>
-
-      </div>
-    <footer>
-
-    </footer>
-  </div>
-    <script>
-      var _gaq=[['_setAccount','UA-29213612-1'],['_trackPageview']];
-      (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-      g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
-      s.parentNode.insertBefore(g,s)}(document,'script'));
-    </script>
-</body>
-</html>
+  <ul>
+  {% for post in site.posts %}
+  	<li><h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><h2></li>
+  {% endfor %} 
+  </ul>
+</div>

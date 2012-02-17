@@ -4,6 +4,4 @@ title: Moving to Jekyll
 ---
 
 Im trying to
-============
-
 Move to Jekyll
