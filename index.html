@@ -3,11 +3,19 @@ title: The Turning Point
 layout: default
 ---
 
-<div id="home">
+{% for post in paginator.posts %}
   
-  <h2>Thanks for dropping by!</h2>
+  <h1> {{ post.date | date: "%d/%m/%Y" }} - {{ post.title }} </h1>
 
-  <h3>If you don't know who I am, please check the About</h3>
+  <p> {{ post.content }} </p>
 
-  <h3>Otherwise, if you're looking for the blog, check all the posts here</h3>
+{% endfor %}
+
+<div id="post-navigation">
+  {% if paginator.page != paginator.total_pages %}
+    <div id="next-posts">
+      <a href="page{{paginator.next_page}}/index.html"><h2> << Older Entries </h2></a>
+    </div>
+  {% endif %}
 </div>
+
