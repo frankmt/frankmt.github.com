@@ -1,0 +1,9 @@
+---
+title: About 
+layout: default
+---
+Francisco Trindade works as developer, coach and consultant at ThoughtWorks. After working on his own start up, Francisco has been helping several companies in the telecommunications, media and finance industries to improve their processes and deliver successful software projects.
+
+Having worked with different types of projects in the past years, both in the Uk and in Australia, his interests range from technology and development to systems thinking and how to create performing teams & organizations.
+
+He has presented about agile & lean in various conferences, including Agile US, Xp Europe, Agile Brazil and South-American Agiles.

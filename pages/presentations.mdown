@@ -1,0 +1,50 @@
+---
+title: Presentations
+layout: default
+---
+
+Is Agile the New Waterfall ? [slideshare](http://www.slideshare.net/frankmt/is-agile-the-new-waterfall)  
+*Latin American Agiles 2009. Florianopolis, Brasil - October 8th and 9th*
+
+
+<strong>- The Lego Lean Game (</strong><a href="http://www.slideshare.net/frankmt/the-lego-lean-game-xp-2009-version"><strong>slideshare</strong></a><strong>)
+</strong>
+
+XP 2009. Sardinia, Italy - June 25th-29th
+
+<strong>- The Lego Lean Game (</strong><a href="http://blog.franktrindade.com/wp-content/uploads/2008/11/thelegoleangame.pdf">pdf</a><strong>)
+</strong>
+
+Agiles 2008. Buenos Aires, Argentina - October 20th-25th
+
+- <strong>Agilidade de Tartaruga. Métodos Ágeis Encontram o Mundo Real (portuguese) (</strong><a href="http://blog.franktrindade.com/wp-content/uploads/2008/11/agiliidadetartaruga.pdf">pdf</a><strong>)
+</strong>
+
+Falando em Agile 2008. São Paulo, Brazil - October 23rd-24th
+
+- <strong>What Went Wrong? A Survey of Problems in Game Development
+Good Practices in Game Development. Is The Game Industry That Bad? </strong><strong>(<a href="http://blog.franktrindade.com/wp-content/uploads/2008/12/geeknightgamesx.pdf">pdf</a>)</strong>
+
+ThoughtWorks Geek Night - Games Development - November 21st, 2008
+
+-<strong> Agile é o Novo Waterfall? (portuguese) </strong>(<a title="Slideshare" href="http://www.slideshare.net/frankmt/agile-o-novo-waterfall-presentation/" target="_blank">slideshare</a>)
+
+Encontro do Grupo de Usuários de Métodos Ágeis - RS - December 16th, 2008
+
+-<strong> How About Games? Extending Agile to Different Environments </strong>(<a title="Slideshare" href="http://www.slideshare.net/frankmt/geek-night-manchester-presentation" target="_blank">slideshare</a>)
+
+ThoughtWorks Manchester Geek Night - Manchester - January 22nd, 2009
+
+<strong>- Coaching de Guerrilha (portuguese) (</strong><a title="Coaching de Guerrilha" href="http://www.slideshare.net/frankmt/coaching-guerrilha" target="_blank">slideshare</a><strong>)</strong>
+
+Agile Brazil 2010 - Porto Alegre, Brazil - June 24th-25th
+
+<strong>- Introduction to RapidFTR (</strong><a href="http://www.slideshare.net/frankmt/rapidftr"><strong>slideshare</strong></a><strong>)</strong>
+
+ThoughtWorks Sydney Geek Night - October 13th 2010
+
+<strong>- Kaizen Lego Game (<a href="http://www.slideshare.net/frankmt/kaizen-legogame" target="_blank">slideshare</a>)</strong>
+
+Agile 2011, Salt Lake City, US - August 11th 2011:w
+
+
