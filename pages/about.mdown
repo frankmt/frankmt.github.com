@@ -1,0 +1,20 @@
+---
+title: About 
+layout: default
+---
+
+Here we go.
+
+For those who dont know me (the infinite majority) , Im Francisco Trindade. Nice to meet you.
+
+Im brazilian, graduated in Computer Engineering at UFRGS in Porto Alegre, where I also did my masters in Computer Science, working with Software Engineering and Human-Computer Interaction. Currently, Im working at ThoughtWorks Melbourne office, probably one of the best places to work that exist in this little IT world.
+
+Im interested in software development as a whole, project management, development methodologies and programming techniques, with a great emphasis on agile methodologies, which I started studying a while ago when I saw that the methodologies I had learned during university werent really helping in software delivery...
+
+And thats the reason I created this blog. To be another discussion forum about the better ways to create software. Feel free to share your ideas!
+
+If your are curious about the title, you can read this post.
+
+Cheers,
+
+Francisco
