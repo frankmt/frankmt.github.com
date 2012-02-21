@@ -4,10 +4,12 @@ layout: default
 ---
 
 {% for post in paginator.posts %}
-  
-  <h1> {{ post.date | date: "%d/%m/%Y" }} - {{ post.title }} </h1>
+  <a class="post-title" href="{{ post.url }}"> 
+    <h1> {{ post.title }} </h1>
+  </a>
+  <h3 class="post-date"> {{ post.date | date: "%d/%m/%Y" }} </h3>
 
-  <p> {{ post.content }} </p>
+  {{ post.content }}
 
 {% endfor %}
 
