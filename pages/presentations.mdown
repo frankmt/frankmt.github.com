@@ -20,7 +20,7 @@ Good Practices in Game Development. Is The Game Industry That Bad? [pdf](http://
 *ThoughtWorks Geek Night - Games Development - November 21st, 2008*
 
 Agile e o Novo Waterfall? (portuguese) [slideshare](http://www.slideshare.net/frankmt/agile-o-novo-waterfall-presentation)
-*Encontro do Grupo de Usuários de Metodos Ageis - RS - December 16th, 2008*
+*Encontro do Grupo de Usuarios de Metodos Ageis - RS - December 16th, 2008*
 
 How About Games? Extending Agile to Different Environments [slideshare](http://www.slideshare.net/frankmt/geek-night-manchester-presentation)
 *ThoughtWorks Manchester Geek Night - Manchester - January 22nd, 2009*
