@@ -6,45 +6,36 @@ layout: default
 Is Agile the New Waterfall ? [slideshare](http://www.slideshare.net/frankmt/is-agile-the-new-waterfall)  
 *Latin American Agiles 2009. Florianopolis, Brasil - October 8th and 9th*
 
+The Lego Lean Game [slideshare](http://www.slideshare.net/frankmt/the-lego-lean-game-xp-2009-version)
+*XP 2009. Sardinia, Italy - June 25th-29th*
 
-<strong>- The Lego Lean Game (</strong><a href="http://www.slideshare.net/frankmt/the-lego-lean-game-xp-2009-version"><strong>slideshare</strong></a><strong>)
-</strong>
+The Lego Lean Game [pdf](http://blog.franktrindade.com/wp-content/uploads/2008/11/thelegoleangame.pdf)
+*Agiles 2008. Buenos Aires, Argentina - October 20th-25th*
 
-XP 2009. Sardinia, Italy - June 25th-29th
+Agilidade de Tartaruga. Metodos Ageis Encontram o Mundo Real (portuguese) [pdf](http://blog.franktrindade.com/wp-content/uploads/2008/11/agiliidadetartaruga.pdf)
+*Falando em Agile 2008. Sao Paulo, Brazil - October 23rd-24th*
 
-<strong>- The Lego Lean Game (</strong><a href="http://blog.franktrindade.com/wp-content/uploads/2008/11/thelegoleangame.pdf">pdf</a><strong>)
-</strong>
+What Went Wrong? A Survey of Problems in Game Development
+Good Practices in Game Development. Is The Game Industry That Bad? [pdf](http://blog.franktrindade.com/wp-content/uploads/2008/12/geeknightgamesx.pdf)
+*ThoughtWorks Geek Night - Games Development - November 21st, 2008*
 
-Agiles 2008. Buenos Aires, Argentina - October 20th-25th
+Agile e o Novo Waterfall? (portuguese) [slideshare](http://www.slideshare.net/frankmt/agile-o-novo-waterfall-presentation)
+*Encontro do Grupo de Usuários de Metodos Ageis - RS - December 16th, 2008*
 
-- <strong>Agilidade de Tartaruga. Métodos Ágeis Encontram o Mundo Real (portuguese) (</strong><a href="http://blog.franktrindade.com/wp-content/uploads/2008/11/agiliidadetartaruga.pdf">pdf</a><strong>)
-</strong>
+How About Games? Extending Agile to Different Environments [slideshare](http://www.slideshare.net/frankmt/geek-night-manchester-presentation)
+*ThoughtWorks Manchester Geek Night - Manchester - January 22nd, 2009*
 
-Falando em Agile 2008. São Paulo, Brazil - October 23rd-24th
+Coaching de Guerrilha (portuguese) [slideshare](href="http://www.slideshare.net/frankmt/coaching-guerrilha)
+*Agile Brazil 2010 - Porto Alegre, Brazil - June 24th-25th*
 
-- <strong>What Went Wrong? A Survey of Problems in Game Development
-Good Practices in Game Development. Is The Game Industry That Bad? </strong><strong>(<a href="http://blog.franktrindade.com/wp-content/uploads/2008/12/geeknightgamesx.pdf">pdf</a>)</strong>
+Introduction to RapidFTR [slideshare](http://www.slideshare.net/frankmt/rapidftr)
+*ThoughtWorks Sydney Geek Night - October 13th 2010*
 
-ThoughtWorks Geek Night - Games Development - November 21st, 2008
+Lego Lean Game [slideshare](http://www.slideshare.net/frankmt/lego-lean-game-agile-australia-2011)
+*Agile Australia 2011. Sydney, Australia. June 15th-16th*
 
--<strong> Agile é o Novo Waterfall? (portuguese) </strong>(<a title="Slideshare" href="http://www.slideshare.net/frankmt/agile-o-novo-waterfall-presentation/" target="_blank">slideshare</a>)
+Kaizen Lego Game [slideshare](http://www.slideshare.net/frankmt/kaizen-legogame)
+*Agile 2011, Salt Lake City, US - August 11th 2011*
 
-Encontro do Grupo de Usuários de Métodos Ágeis - RS - December 16th, 2008
-
--<strong> How About Games? Extending Agile to Different Environments </strong>(<a title="Slideshare" href="http://www.slideshare.net/frankmt/geek-night-manchester-presentation" target="_blank">slideshare</a>)
-
-ThoughtWorks Manchester Geek Night - Manchester - January 22nd, 2009
-
-<strong>- Coaching de Guerrilha (portuguese) (</strong><a title="Coaching de Guerrilha" href="http://www.slideshare.net/frankmt/coaching-guerrilha" target="_blank">slideshare</a><strong>)</strong>
-
-Agile Brazil 2010 - Porto Alegre, Brazil - June 24th-25th
-
-<strong>- Introduction to RapidFTR (</strong><a href="http://www.slideshare.net/frankmt/rapidftr"><strong>slideshare</strong></a><strong>)</strong>
-
-ThoughtWorks Sydney Geek Night - October 13th 2010
-
-<strong>- Kaizen Lego Game (<a href="http://www.slideshare.net/frankmt/kaizen-legogame" target="_blank">slideshare</a>)</strong>
-
-Agile 2011, Salt Lake City, US - August 11th 2011:w
-
-
+Subject to Change - Why Your Change Program Is Going to Fail and What You Can Do About It [slideshare](http://www.slideshare.net/frankmt/subject-to-change-9966931)
+*LESS 2011 - Conference on Lean Enterprise and Software Systems. Stockholm, Sweden - October 30th-November 2nd*
